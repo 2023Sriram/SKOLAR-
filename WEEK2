@@ -1,0 +1,52 @@
+VISUAL STUDIO CODE 
+IDE Selection Choose a Python Integrated Development Environment (IDE) from the 
+following options: 
+Visual Studio Code (VS Code) or Jupyter Notebook. 
+Install the selected IDE on your computer.
+Both Visual Studio Code (VS Code) and Jupyter Notebook are excellent options for Python 
+development, but they serve slightly different purposes. Here’s a brief comparison to help 
+you decide:
+• Visual Studio Code (VS Code)
+Pros
+➢ Powerful and versatile editor with extensive language support.
+➢ Rich ecosystem of extensions for debugging, linting, version control, and more.
+➢ Integrated terminal and support for remote development.
+➢ Good for larger projects and general-purpose coding.
+Cons 
+➢ Slightly steeper learning curve for beginners.
+➢ Requires configuration for optimal use.
+• Jupyter Notebook
+Pros
+➢ Excellent for data science, machine learning, and educational purposes.
+➢ Interactive and visual, making it great for exploratory data analysis.
+➢ Easy to use for beginners.
+➢ Allows for mixing of code, markdown, and visualizations.
+Cons 
+➢ Not as suitable for larger, production-level projects.
+➢ Less support for non-Python languages.
+INSTALLATION INSTRUCTIONS 
+Visual Studio Code (VS Code)
+1. Download: Go to the [official VS Code website] Visual Studio Code - Code Editing. Redefined
+(https://code.visualstudio.com/) and download the installer for your operating system.
+2. Install: Run the installer and follow the instructions.
+3. Python Extension: After installation, open VS Code and install the Python extension from 
+the Extensions marketplace.
+Jupyter Notebook
+1. Anaconda Distribution: The easiest way to install Jupyter Notebook is through the 
+Anaconda distribution, which includes Jupyter and many other useful packages.
+2. Download: Go to the [Anaconda website]
+(https://www.anaconda.com/products/individual) GETTING STARTED WITH ANACONDA 
+INDIVIDUAL EDITION and download the installer for your operating system.
+3. Install: Run the installer and follow the instructions.
+Launch Jupyter Notebook
+Open Anaconda Navigator and launch Jupyter Notebook from there. Alternatively, you can 
+install Jupyter Notebook using pip if you already have “Python installed”:
+1. Open a terminal or command prompt.
+2. Run the command: pip install notebook
+3. After installation, start Jupyter Notebook by running the command: jupyter notebook
+❖ Both tools are valuable, but the best choice depends on your specific needs and 
+workflow. 
+❖ If you’re still undecided, you might consider starting with Jupyter Notebook for its 
+ease of use and interactive nature, especially if you’re focusing on data science or 
+learning Python. 
+❖ You can always install and use both as they complement each other well
